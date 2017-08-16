@@ -1,0 +1,224 @@
+body {
+	margin: 0;
+	font-size: 12px;
+	
+}
+
+#main {
+	
+	max-width: 1440px;
+	height: 682px;
+	margin: 0 auto 1px;
+	
+	background: url("h2.png") 50% 53% no-repeat, url("main.png") 50% 39% no-repeat,url(http://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg) 0 100%  no-repeat;
+	
+	
+	
+}
+
+#h3 {
+	height: 64px;
+	overflow:hidden;
+	position: relative;
+	top: 45%;
+	/* width: 80%; */
+	/* margin: 0 auto; */
+	text-align: center;
+	
+	
+}
+
+
+
+#h3 img {
+	display: inline-block;
+	position: relative;
+	top: 58%;
+	
+	
+}
+
+ul {
+	list-style: none;
+	margin: 0 auto;
+	padding: 25px 0;
+	text-align: center;
+	color: #fff;
+	height: 36px;
+	background:
+		
+		url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA9QAAAAkCAMAAABfcIIyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAHVQTFRFAAAA%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F5YtmQAAAACd0Uk5TAAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIjJCUmZiD6WAAAAdlJREFUeF7t3btuFEEQheFzunotGYkIERA4spn3fyeHiAgEEtsXB82s2eEJavR%2F0Wjyo75XWfHpw4MkSXNqCkA2lr2%2B%2Fvz63n15qpI0x5yTSAM52XaxJLVXf%2FkoaY6xQk2sgXy8Ql2KJf3wS5HG6HMMQg3kZNkuxVGKNLxJo48%2BxhxTpBrIx7JcXEqUKJI3zd77CjWLaiAle4U6Iixv6q33MfocTL%2BBlCy7OEqJqCFvs%2FV2m3%2BTaiAd6zb7rlHtrbc1VA%2Bm30BSa%2B%2B7RNSo4a21thbVTL%2BBnCy7rCV1rdXbtbXW%2B%2Bh%2Ft78BZLM2v6NE1Fov%2FrpC3Zl%2BA2l5H6lrrRe%2FXNu%2BqCbUQE57qGvsoW5t9D4H028gJculOKLUWuvFz%2B16O9NipAZSsm8nWpfq53ZlTQ3k9s%2BamlADZ0CogZMh1MDJEGrgZAg1cDL%2Fh5ojLSC1%2ByMtLp8A2R0un3BNFEjv%2FpooDzqA9O4fdPD0Esju8PSSIglAdsciCZQzArI7lDOat30yCg8CGe2FB1eovZcI7oMSwUBSq0TwWlQHxfyBEzgW86ftDpDase0ODfKA7A4N8mhlC2R318r2px%2BeQqLpPJDae9P5%2FmrVz491%2FWekBlKy7PXVfn9rb9xXsMD2wdOcAAAAAElFTkSuQmCC') no-repeat 50% 50%;
+		
+
+	}
+	
+	
+	
+#main ul li {
+	
+	display: inline-block;
+	font-size: 14px;
+	width: 103px;
+	margin: 3px 0;
+	background: linear-gradient(to bottom, #464242, #6C6A6A 50%,#484545 50%,#7A7A7A);
+	background-clip: content-box;
+  background-origin: content-box;
+ 
+ line-height: 36px;
+ border-width: 0 1px 0 1px;
+    border-style: solid;
+	border-color: #7A7A7A ;
+
+}
+
+
+
+#main ul li:first-child {
+	
+	background: url("logos.png") no-repeat 50% 0,linear-gradient(to bottom, #464242, #6C6A6A 50%,#484545 50%,#7A7A7A);
+	width: 104px;
+	background-origin: content-box;
+	border-radius: 4px 0 0 4px;
+	text-indent: 9999px;
+	
+}
+
+#main ul li:last-child {
+	width: 132px;
+	border-radius: 0 4px 4px 0;
+	background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAOCAQAAABedl5ZAAAAzklEQVQYlWNgAIP%2F9v%2FrwVCfARn85%2F%2B%2F%2Fz8CzEeS%2BnMQJPL0%2Ba37796DJfsZ4EYBwar9DBkMCQwFR86DJeXBUo%2F6QToYHCAKtaO%2Bf%2F%2F%2F%2F3kmmHNm%2Fv%2F%2FD27CTee4c%2Ff%2F%2F2vT4VKfXiM5CQg2t4M5lckQd%2F3nB0n8vQji5HhCFEpArP73AeGF35dACkEgYPtxmODXnxueg2igbqikh3l%2F1%2FpV%2B7vWyzUwxHatB%2BvcBLNfgMEA6AEDBg4g26Br%2FffvqeUMWIEBULcEdikGkG4AzGOfgUQC7TUAAAAASUVORK5CYII%3D') no-repeat 10px 10px,linear-gradient(to bottom, #464242, #6C6A6A 50%,#484545 50%,#7A7A7A);
+}
+
+
+form {
+	
+	
+}
+
+input {
+
+height: 19px;
+border-radius: 12px;
+padding: 2px 18px 1px 22px;
+box-sizing: border-box;
+	
+}
+
+input[type="text"] {
+	
+	width: 106px;
+	
+	opacity: 0.1;
+}
+
+
+#bottom {
+	max-width: 1445px;
+	margin: 0 auto;
+	
+	
+}
+
+.prd {
+	width: 24.725%;
+	height: 200px;
+	display: inline-block;
+}
+
+
+
+#item1 {
+	background: url("item1.jpg");
+	
+}
+
+#item2 {
+	background: url("item2.jpg");
+	
+}
+
+
+#item3 {
+	background: url("item3.jpg");
+	
+}
+
+#item4 {
+	background: url("item4.jpg");
+	
+}
+
+
+footer {
+	font: 12px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+	max-width: 1440px;
+	margin: 0 auto;
+	color: #6e6e6e;
+    font-size: .8334em;
+    line-height: 3.2;
+    text-align: center;
+	padding: 2px 24%;
+	
+}
+
+footer:after {
+	content: "";
+	display: block;
+	clear: both;
+	
+}
+
+footer ul {
+	list-style: none;
+	float: right;
+	padding: 0;
+}
+
+footer ul li {
+	display: inline-block;
+	
+	
+}
+
+footer ul li:after {
+	
+		content: "|";
+		padding: 4px;
+		color: lightgrey;
+		line-height: 15px;
+	
+}
+
+footer ul li:last-child:after {
+	content: "";
+}
+
+
+footer ul li:last-child {
+	width: 32px;
+	height:32px;
+	background: url("flag.png") 0 6px no-repeat;
+	
+}
+
+.link {
+	float: left;
+	clear: both;
+}
+
+
+footer a {
+	
+	color: #08c;
+	text-decoration: none;
+}
+
+
+footer a:hover{
+	
+	
+	text-decoration: underline;
+}
+
+
+
